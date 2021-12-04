@@ -21,7 +21,7 @@ window.addEventListener('scroll', function(){
         ground.style.top = -value * 0.30 + 'px';
         threeGround.style.top = -value * 0.13 + 'px';
         groundAfterFox.style.top = -value * 0.60 + 'px';
-        threeAfterFox.style.top = value * 0 + 'px';
+        threeAfterFox.style.top = -value * 0.40 + 'px';
         groundFox.style.top = -value * 0.10 + 'px';
         groundFoxBis.style.top = -value * 0.50 + 'px';
         fox.style.top = value * 0.2 + 'px';

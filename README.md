@@ -2,7 +2,7 @@
 
 # 🔗 Lien vers le projet : 
 Projet en construction :
-https://magaligarot.github.io/Portfolio/
+https://magaligarot.github.io/fox-parallax/
 
 # 🗒Le projet :
 
