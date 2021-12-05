@@ -17,6 +17,7 @@ Réalisation d'une page (projet personnel) en HTML, SCSS et JavaScript.
 
 ## 📙 Framework
 * Bootstrap 
+* Greensock
 
 ## 📁 Structure du projet
 * index.html
@@ -26,8 +27,3 @@ Réalisation d'une page (projet personnel) en HTML, SCSS et JavaScript.
 ## 📱Responsive
 
 * A venir -> Desktop, Tablette et Smartphone
-
-
-## 🖊 A propos :
-
- Attirée depuis toujours par l’aspect visuel et la technologie, je me suis tournée très jeune vers le dessin et les programmes informatiques.

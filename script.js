@@ -8,7 +8,7 @@ let groundAfterFox = document.getElementById("plan-4");
 let threeAfterFox = document.getElementById("plan4-bois");
 let groundFox = document.getElementById("plan-3");
 let groundFoxBis = document.getElementById("plan-3bis");
-let fox = document.getElementById("plan-2");
+let fox = document.getElementById("svg-fox");
 let darkLeaf = document.getElementById("plan-1");
 let title = document.getElementById("title");
 
@@ -27,4 +27,8 @@ window.addEventListener('scroll', function(){
         fox.style.top = value * 0.2 + 'px';
         darkLeaf.style.top = -value * 0.10 + 'px';
         title.style.marginTop = value * 0.6 + 'px';
-})
+});
+
+gsap.from('#nav1', {duration: 0.6, ease: "pslow(0.7, 0.7, false)", opacity:0, y: -60, delay:0.2 });
+gsap.from('#nav2', {duration: 0.6, ease: "pslow(0.7, 0.7, false)", opacity:0, y: -60, delay:0.4 });
+gsap.from('#title', {duration: 2, ease: "pslow(0.7, 0.7, false)", opacity:0, y: -60, delay:0.6 });
